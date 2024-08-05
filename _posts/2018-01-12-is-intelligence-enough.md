@@ -3,7 +3,7 @@ layout: post
 title:  "My First Incline"
 author: Claire
 categories: [ Jekyll, tutorial, web development ]
-image: "assets/images/2018/IMG_5302.jpg"
+image:assets/images/2018/IMG_5302.jpg"
 featured: true
 ---
 ### 38'12''
