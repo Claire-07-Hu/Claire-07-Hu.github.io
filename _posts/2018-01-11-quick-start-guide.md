@@ -3,7 +3,7 @@ layout: post
 title:  "Chloe! My Best Friend: "
 author: Claire
 categories: [ Jekyll, tutorial ]
-image: "{{ site.baseurl }}/assets/images/2018/DSC_2677.jpg"
+image: "assets/images/2018/DSC_2677.jpg"
 featured: true
 hidden: true
 ---
