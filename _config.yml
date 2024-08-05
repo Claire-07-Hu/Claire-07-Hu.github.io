@@ -3,7 +3,7 @@ name: "Claire Hu"
 title: "Claire Bear Growth"
 description: "Claire Webpage recording the grow path"
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+favicon: 'assets/images/logoface.png'
 baseurl: "" #"/Claire-07-Hu"
 url: "https://claire-07-hu.github.io"
 google_analytics: ''
@@ -18,7 +18,7 @@ authors:
   sal:
     name: Claire 
     display_name: Claire Hu
-    gravatar: 
+    avatar: 'assets/images/logoface.png'
     email: claire.yuwei.hu@gmail.com
     web: https://claire-07-hu.github.io
     description: "Author of Claire Hu, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. Made possible by Jekyll template demo."
